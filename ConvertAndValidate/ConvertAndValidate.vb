@@ -4,7 +4,7 @@ Option Explicit On
 Option Compare Text
 Option Strict On
 
-Module Module1
+Module ConvertAndValidate
 
     Sub Main()
         Dim aValidNumber As Integer
