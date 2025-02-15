@@ -1,4 +1,8 @@
 ﻿'Payden Hoskins
+'RCET2265
+'Spring 2025
+'ConvertAndValidate
+'https://github.com/PaydenHoskins/ConvertAndValidate.git
 
 Option Explicit On
 Option Compare Text
